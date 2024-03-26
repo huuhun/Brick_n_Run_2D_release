@@ -1,5 +1,5 @@
 # Description
-A 2D game made with SDL2
+A 2D game made with SDL2 and C++
 
 Libaries used:
 
