@@ -1,0 +1,14 @@
+#pragma once
+
+enum StandingDirection : int{
+    DEFAULT = 0,
+    STANDING_STILL_FACING_RIGHT = 1,
+    STANDING_STILL_FACING_LEFT = 2,
+    STANDING_STILL_FACING_UP = 3,
+    STANDING_STILL_FACING_DOWN = 4,
+
+    WALKING_RIGHT = 5,
+    WALKING_LEFT = 6,
+    WALKING_UP = 7,
+    WALKING_DOWN = 8,
+};
